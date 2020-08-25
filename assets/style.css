@@ -3,15 +3,16 @@
 }
 
 .nav-wrapper{
-    font-family: cursive;
+    
     
 }
 
 #bio{
-    font-family: cursive;
+    border-block-color: black;
 }
 
 body {
+    background-color: rgb(102, 134, 146);
     display: flex;
     min-height: 100vh;
     flex-direction: column;
