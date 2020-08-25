@@ -1,0 +1,18 @@
+.About img{
+ height: 300px;
+}
+
+.nav-wrapper{
+    font-family: cursive;
+    
+}
+
+#bio{
+    font-family: cursive;
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
