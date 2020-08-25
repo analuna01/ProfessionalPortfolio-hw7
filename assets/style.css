@@ -17,3 +17,8 @@ body {
     min-height: 100vh;
     flex-direction: column;
   }
+
+  .img{
+      height: 250px;
+      padding-left: 10px;
+  }
