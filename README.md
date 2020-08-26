@@ -9,7 +9,7 @@ https://analuna01.github.io/ProfessionalPortfolio-hw7/
 HTML,
 JAVASCRIPT,
 CSS,
-MATERIALIZE,
+MATERIALIZE.
 
 ## Comments: 
 The purpose of this assignment was to develop an updated version of our "Responsive Portfolio-hw2" using our new knowledge to create a professional portfolio that included a biography, our most recent work as developers and our contact information.
