@@ -16,4 +16,11 @@ The purpose of this assignment was to develop an updated version of our "Respons
 
 ## Screenshots of deployed app:
 
+HOME:
+<img src="assets/MainPage_img.jpg">
 
+CONTACT:
+<img src="assets/ContactInfo.jpg">
+
+PORTFOLIO:
+<img src="assets/MyWork_img.jpg">
