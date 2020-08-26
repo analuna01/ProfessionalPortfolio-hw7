@@ -2,14 +2,6 @@
  height: 300px;
 }
 
-.nav-wrapper{
-    
-    
-}
-
-#bio{
-    border-block-color: black;
-}
 
 body {
     background-color: rgb(102, 134, 146);
@@ -19,6 +11,20 @@ body {
   }
 
   .img{
-      height: 250px;
+      height: 300px;
       padding-left: 10px;
   }
+
+  #work{
+      
+  }
+
+.page-footerp{
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    bottom: 0vw;
+    height: 50px;
+    clear: both;
+    
+}
