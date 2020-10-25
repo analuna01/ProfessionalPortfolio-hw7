@@ -17,10 +17,10 @@ The purpose of this assignment was to develop an updated version of our "Respons
 ## Screenshots of deployed app:
 
 HOME:
-<img src="assets/MainPage_img.jpg">
-
-CONTACT:
-<img src="assets/ContactInfo.jpg">
+<img src="assets/home.png">
 
 PORTFOLIO:
-<img src="assets/MyWork_img.jpg">
+<img src="assets/portfolio.png">
+
+MY WORK:
+<img src="assets/myWork.png">
